@@ -1,0 +1,161 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.8.6
+Date: 31.01.2023
+  Changes:
+    - le subgroup "circuit-network" est maintenant placé dans le group "ritn-electronic".
+---------------------------------------------------------------------------------------------------
+Version: 0.8.5
+Date: 04.01.2023
+  Fixes:
+    - Fix control -> module : disco-science
+---------------------------------------------------------------------------------------------------
+Version: 0.8.4
+Date: 04.01.2023
+  Changes:
+    - Compatibilité avec RitnLib 0.7.3
+---------------------------------------------------------------------------------------------------
+Version: 0.8.3
+Date: 02.01.2023
+  Adds:
+    - Dectorio ajouté dans les mods optionnel.
+---------------------------------------------------------------------------------------------------
+Version: 0.8.2
+Date: 01.01.2023
+  Fixes:
+    - fix du changement d'item-subgroup de "deadlock-copper-lamp" si le mod "DeadlockLargerLamp" est activé.
+    - fix : rajout du coffre en acier dans la technologie : "basic-assembly".
+  Changes:
+    - Changement de la categorie de la recette "dect-small-lamp-glow" (Dectorio)
+---------------------------------------------------------------------------------------------------
+Version: 0.8.1
+Date: 28.12.2022
+  Changes:
+    - Changement de la couleur de l'item-group.
+---------------------------------------------------------------------------------------------------
+Version: 0.8.0
+Date: 16.12.2022
+  Changes:
+    - Compatibilité avec RitnLib 0.7
+---------------------------------------------------------------------------------------------------
+Version: 0.7.2
+Date: 08.03.2022
+  Changes:
+    - Ajustement du coût des pack de science mécanique (elles ne sont pas assez chère).
+---------------------------------------------------------------------------------------------------
+Version: 0.7.1
+Date: 03.03.2022
+  Changes:
+    - Compatibilité avec "Updated_Construction_Drones".
+    - Changement de couleur des images des items-group.
+---------------------------------------------------------------------------------------------------
+Version: 0.7.0
+Date: 21.02.2022
+  Changes:
+    - Compatibilité avec RitnLib 0.6
+    - Compatibilité avec les RitnMods en 0.7
+    - Adaptation des technologies.
+    - Nouvelle icone pour les groupe de recette.
+    - RitnPurple obligatoire maintenant.
+---------------------------------------------------------------------------------------------------
+Version: 0.5.3
+Date: 28.12.2021
+  Changes:
+    - Changement dans l'arbre des technologies. (basic-assembly)
+---------------------------------------------------------------------------------------------------
+Version: 0.5.2
+Date: 22.12.2021
+  Notes:
+    - Compatibilité avec RitnLib 0.5.5
+---------------------------------------------------------------------------------------------------
+Version: 0.5.1
+Date: 14.12.2021
+  Fixes:
+    - fix : compatibilité avec les mods ajoutés qui possède des technologies avec des prérequis de recherches désactivés.
+---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date: 12.11.2021
+  Notes:
+    - Compatibilité avec RitnLib 0.5.
+---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: 22.02.2021
+  Notes:
+    - Mod stable.
+  Changes:
+    - Mise à jour de control.lua
+---------------------------------------------------------------------------------------------------
+Version: 0.3.7
+Date: 19.02.2021
+  Fixes:
+    - Compatibilité à la version 1.1 du jeu. (graphics)
+  Changes:
+    - Déplacement du subgroup "space-related" dans le group "ritn-mechanics".
+---------------------------------------------------------------------------------------------------
+Version: 0.3.6
+Date: 23.01.2021
+  Notes:
+    - Compatibilité à la version 1.1 du jeu.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.5
+Date: 28.11.2020
+  Fixes:
+    - Fix de compatibilité avec Dectorio.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.4
+Date: 24.11.2020
+  Adds:
+    - Ajout d'une usine chimique spéciale dans la recette de l'usine de produits chimiques.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.3
+Date: 11.11.2020
+  Fixes:
+    - Compatibilité avec d'autres mods...
+---------------------------------------------------------------------------------------------------
+Version: 0.3.2
+Date: 11.11.2020
+  Changes:
+    - Compatibilité avec RitnLib 0.3.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.1
+Date: 07.11.2020
+  Adds :
+    - Les tous les types de wagons sont déplacé dans le subgroup "transport".
+    - Compatibilité avec Beautiful Bridge railway (group/subgroup).
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 15.08.2020
+  Notes :
+    - Passage en 1.0.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.19
+Date: 22.07.2020
+  Changes :
+    - Changements mineurs.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.18
+Date: 16.07.2020
+  Changes :
+    - Les Foreuses thermiques peuvent être faite à la main. 
+---------------------------------------------------------------------------------------------------
+Version: 0.2.17
+Date: 14.07.2020
+  Adds:
+    - Ajout de la compatibilité avec les mods : Dectorio et DeadlockLargerLamp.
+  Changes :
+    - Changements mineurs.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.16
+Date: 19.06.2020
+  Fixes:
+    - Fix du bug lié à la réorganisation des items/recettes du mod RitnLumberjack 0.4.0.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.15
+Date: 18.06.2020
+  Changes:
+    - Mise à jour des icônes.
+    - Intègre directement les couleurs des Usines chimiques au lieu de le faire dans "RitnGlass".
+---------------------------------------------------------------------------------------------------
+Version: 0.2.14
+Date: 27.04.2020
+  Changes:
+    - Passage en version 0.18 du jeu.
