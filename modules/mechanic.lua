@@ -1,9 +1,7 @@
-local RitnEvent = require(ritnlib.defines.class.luaClass.event)
-----------------------------------------------------------------
 
 -- Quand le joueur est créer :
 local function on_player_created(e)
-    RitnEvent(e):getPlayer():getForce():getRecipe("automation-science-pack"):setEnabled(false)
+    RitnLibEvent(e):getPlayer():getForce():getRecipe("automation-science-pack"):setEnabled(false)
 end
 
 ----------------------------------------------------------------
