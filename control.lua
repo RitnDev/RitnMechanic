@@ -4,8 +4,10 @@ require(ritnlib.defines.setup)
 -- gvv
 if script.active_mods["gvv"] then require(ritnlib.defines.gvv)() end
 
+
 -- Chargement des modules :
 local modules = {}
+modules.events =        require("modules.events")
 modules.mechanic =      require("modules.mechanic")
 
 -- envoie des modules à l'event listener :
