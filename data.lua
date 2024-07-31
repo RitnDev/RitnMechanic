@@ -53,6 +53,7 @@ RitnProtoItem("stone-furnace"):changePrototype("stack_size", 100)
 RitnProtoRecipe("steel-plate"):setEnabled(true)
 ------
 RitnProtoTech("basic-assembly"):addRecipe("repair-pack")
+RitnProtoRecipe("repair-pack"):setEnabled(false)
 
 -- Update Technology
 require("prototypes.update-technology")
